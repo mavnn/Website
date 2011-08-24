@@ -1,0 +1,25 @@
+.Main_text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 3;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+}
+.Title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 4;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: underline;
+}
+.Right {
+	float: right;
+}
+.Left {
+	float: left;
+}
+
+p{
+	margin-left: 1em;
+}
+

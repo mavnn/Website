@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+author=Michael
+csum=
+ctime=1295386454
+host=87.194.105.166
+name=Nano.ClanRimah
+rev=3
+targets=
+text=Right at the south of the clan lands in Exile Pass%0a%0a!!! Blooded families%0aFather's full name: Salman, son of Abdul-Tawwab of the Clan of Rimah%0a%0aMother's full name: Faizah, daughter of Ayishah of the Clan of Rimah%0a%0aChild 1's full name: Bakr, son of Salman of the Clan of Rimah and the Blood of Azizah (Life Smith)%0a%0aChild 2's full name: Bahij, son of Salman of the Clan of Rimah%0a%0aChild 3's full name: Aqila, daughter of Faizah of the Clan of Rimah%0a%0aChild 4's full name: Faysal, son of Salman of the Clan of Rimah%0a%0a%0aFather's full name: Jibril, son of Asif of the Clan of Rimah and the Blood of Rihana (Animal Smith)%0a%0aMother's full name: Mubina, daughter of Akilah of the Clan of Rimah%0a%0aChild 1's full name: Surayya, daughter of Mubina of the Clan of Rimah%0a%0aChild 2's full name: Nur, daughter of Mubina of the Clan of Rimah%0a%0aChild 3's full name: Wafi, son of Jibril of the Clan of Rimah%0a%0aChild 4's full name: Muhtadi, son of Jibril of the Clan of Rimah%0a%0a%0aFather's full name: Salah-al-din, son of Sakhr of the Clan of Rimah%0a%0aMother's full name: Muhsina, daughter of I'tidal of the Clan of Rimah and the Blood of Abd-al-rahman (Eagles)%0a
+time=1295386814
+author:1295386814=Michael
+diff:1295386814:1295386501:=8,9c8,9%0a%3c Child 1's full name: Bakr, son of Salman of the Clan of Rimah and the Blood of Azizah (Life Smith)%0a%3c %0a---%0a> Child 1's full name: Bakr, son of Salman of the Clan of Rimah and the Blood of Azizah%0a> %0a17,18c17,18%0a%3c Father's full name: Jibril, son of Asif of the Clan of Rimah and the Blood of Rihana (Animal Smith)%0a%3c %0a---%0a> Father's full name: Jibril, son of Asif of the Clan of Rimah and the Blood of Rihana%0a> %0a32c32%0a%3c Mother's full name: Muhsina, daughter of I'tidal of the Clan of Rimah and the Blood of Abd-al-rahman (Eagles)%0a---%0a> Mother's full name: Muhsina, daughter of I'tidal of the Clan of Rimah and the Blood of Abd-al-rahman%0a
+host:1295386814=87.194.105.166
+author:1295386501=Michael
+diff:1295386501:1295386454:=5d4%0a%3c %0a7d5%0a%3c %0a9d6%0a%3c %0a11d7%0a%3c %0a13d8%0a%3c %0a16d10%0a%3c %0a18d11%0a%3c %0a20d12%0a%3c %0a22d13%0a%3c %0a24d14%0a%3c %0a26d15%0a%3c %0a29d17%0a%3c %0a31,32c19%0a%3c %0a%3c Mother's full name: Muhsina, daughter of I'tidal of the Clan of Rimah and the Blood of Abd-al-rahman%0a---%0a> Mother's full name: Muhsina, daughter of I'tidal of the Clan of Rimah and the Blood of Abd-al-rahman%0a\ No newline at end of file%0a
+host:1295386501=87.194.105.166
+author:1295386454=Michael
+diff:1295386454:1295386454:=1,19d0%0a%3c Right at the south of the clan lands in Exile Pass%0a%3c %0a%3c !!! Blooded families%0a%3c Father's full name: Salman, son of Abdul-Tawwab of the Clan of Rimah%0a%3c Mother's full name: Faizah, daughter of Ayishah of the Clan of Rimah%0a%3c Child 1's full name: Bakr, son of Salman of the Clan of Rimah and the Blood of Azizah%0a%3c Child 2's full name: Bahij, son of Salman of the Clan of Rimah%0a%3c Child 3's full name: Aqila, daughter of Faizah of the Clan of Rimah%0a%3c Child 4's full name: Faysal, son of Salman of the Clan of Rimah%0a%3c %0a%3c Father's full name: Jibril, son of Asif of the Clan of Rimah and the Blood of Rihana%0a%3c Mother's full name: Mubina, daughter of Akilah of the Clan of Rimah%0a%3c Child 1's full name: Surayya, daughter of Mubina of the Clan of Rimah%0a%3c Child 2's full name: Nur, daughter of Mubina of the Clan of Rimah%0a%3c Child 3's full name: Wafi, son of Jibril of the Clan of Rimah%0a%3c Child 4's full name: Muhtadi, son of Jibril of the Clan of Rimah%0a%3c %0a%3c Father's full name: Salah-al-din, son of Sakhr of the Clan of Rimah%0a%3c Mother's full name: Muhsina, daughter of I'tidal of the Clan of Rimah and the Blood of Abd-al-rahman%0a\ No newline at end of file%0a
+host:1295386454=87.194.105.166

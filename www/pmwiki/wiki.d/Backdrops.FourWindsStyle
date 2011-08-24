@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+author=Michael
+csum=
+ctime=1218459225
+host=62.231.146.140
+name=Backdrops.FourWindsStyle
+rev=1
+targets=Characters.Vant,Category.MartialArts
+text=Founded by [[Characters/Vant]], one of the Lords of Light, the Four Winds Style is a swift and aggresive art that focusses on movement, aerial maneuvers (literally for those bound to Vant, via jumps for others) and kicks.%0a%0aUnlike many arts which teach a firm foundation stance from which to launch and block attacks, Four Winds relies on constantly shifting footwork and constant motion. Defense comes almost entirely from evasion, with few blocks, and attacks are generally kicks launched from unexpected directions. Fights between two masters of the arts flick back and forth across the battlefield like butterflies swirling in a storm, while combatants from other martial arts often feel rooted to the spot while a Four Winds master shifts and eddies around them.%0a%0aCategories: [[!Martial Arts]]
+time=1218459225
+author:1218459225=Michael
+diff:1218459225:1218459225:=1,5d0%0a%3c Founded by [[Characters/Vant]], one of the Lords of Light, the Four Winds Style is a swift and aggresive art that focusses on movement, aerial maneuvers (literally for those bound to Vant, via jumps for others) and kicks.%0a%3c %0a%3c Unlike many arts which teach a firm foundation stance from which to launch and block attacks, Four Winds relies on constantly shifting footwork and constant motion. Defense comes almost entirely from evasion, with few blocks, and attacks are generally kicks launched from unexpected directions. Fights between two masters of the arts flick back and forth across the battlefield like butterflies swirling in a storm, while combatants from other martial arts often feel rooted to the spot while a Four Winds master shifts and eddies around them.%0a%3c %0a%3c Categories: [[!Martial Arts]]%0a\ No newline at end of file%0a
+host:1218459225=62.231.146.140

@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.3) Gecko/20090924 Ubuntu/9.10 (karmic) Firefox/3.5.3
+author=Michael
+csum=
+ctime=1255380326
+host=87.194.105.166
+name=Nano.TheEmpire
+rev=1
+targets=
+text=! The Empire%0aNorth of the Nomads, it used to be a collection of fiercely independent city states. Now the Emperor rules them all, run via the Blooded of Zardusht - the only known bloodline of communicators.
+time=1255380326
+author:1255380326=Michael
+diff:1255380326:1255380326:=1,2d0%0a%3c ! The Empire%0a%3c North of the Nomads, it used to be a collection of fiercely independent city states. Now the Emperor rules them all, run via the Blooded of Zardusht - the only known bloodline of communicators.%0a\ No newline at end of file%0a
+host:1255380326=87.194.105.166

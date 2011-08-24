@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.0.1) Gecko/2008072820 Firefox/3.0.1
+author=michael
+csum=
+ctime=1218748288
+host=78.145.149.14
+name=Events.SaskiaMaddingPassesThroughTheGateway
+rev=1
+targets=Characters.Saskia
+text=[[Characters/Saskia]] Madding travels through the Gateway from her homeworld, and discovers several months later that she is one of those changed by it. At first, the change takes the part of minor surprises: seeing glimpses of animals overlaying people, or hearing conversations that should be too far away. Soon, though, the effects spread and become from prevalent and noticeable as she learns that she can hear peoples thoughts and move objects with her mind.%0a%0aThese traits, it turns out, are hereditary. Saskia's life in Pamant becomes somewhat interesting as others learn about these abilities...
+time=1218748288
+author:1218748288=michael
+diff:1218748288:1218748288:=1,3d0%0a%3c [[Characters/Saskia]] Madding travels through the Gateway from her homeworld, and discovers several months later that she is one of those changed by it. At first, the change takes the part of minor surprises: seeing glimpses of animals overlaying people, or hearing conversations that should be too far away. Soon, though, the effects spread and become from prevalent and noticeable as she learns that she can hear peoples thoughts and move objects with her mind.%0a%3c %0a%3c These traits, it turns out, are hereditary. Saskia's life in Pamant becomes somewhat interesting as others learn about these abilities...%0a\ No newline at end of file%0a
+host:1218748288=78.145.149.14

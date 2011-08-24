@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+author=
+csum=
+ctime=1218545142
+host=62.231.146.140
+name=Playground.GroupFooter
+rev=2
+targets=
+text=!!! Pages linking to this page%0a%0a(:pagelist link={$FullName}:)
+time=1218545159
+author:1218545159=
+diff:1218545159:1218545142:=1,2d0%0a%3c !!! Pages linking to this page%0a%3c %0a
+host:1218545159=62.231.146.140
+author:1218545142=
+diff:1218545142:1218545142:=1d0%0a%3c (:pagelist link={$FullName}:)%0a\ No newline at end of file%0a
+host:1218545142=62.231.146.140

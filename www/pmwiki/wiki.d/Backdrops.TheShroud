@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.0.1) Gecko/2008072820 Firefox/3.0.1
+author=michael
+csum=
+ctime=1218748805
+host=78.145.149.14
+name=Backdrops.TheShroud
+rev=2
+targets=Backdrops.TheGatekeeper
+text=Many people coming through the Gateway claim to come from worlds with technological marvels that sound almost unbelievable to the residents of Pamant, especially as they claim these effects are achieved without magic, psychic abilities or the help of the Lords.%0a%0aAfter all, what does draw their horseless carriages? And giant metal vehicles that fly under their own power? Machines that "think" but have no imagination?%0a%0aThe disbelief is further compounded by the fact that none of these people can ever explain how or why these devices worked, or replicate them in Pamant ''even if they claim they did know how in their own worlds''. Those few who believe that these travellers are telling the truth ([[The Gatekeeper]] among them) have come to the conclusion that something about either the Gateway or Pamant itself prevents the growth of technology beyond a certain level.%0a%0aWhy this is the case, and who enforces the block, no one is quite sure.
+time=1218748816
+author:1218748816=michael
+diff:1218748816:1218748805:=5,6c5,6%0a%3c The disbelief is further compounded by the fact that none of these people can ever explain how or why these devices worked, or replicate them in Pamant ''even if they claim they did know how in their own worlds''. Those few who believe that these travellers are telling the truth ([[The Gatekeeper]] among them) have come to the conclusion that something about either the Gateway or Pamant itself prevents the growth of technology beyond a certain level.%0a%3c %0a---%0a> The disbelief is further compounded by the fact that none of these people can ever explain how or why these devices worked, or replicate them in Pamant ""even if they claim they did know how in their own worlds"". Those few who believe that these travellers are telling the truth ([[The Gatekeeper]] among them) have come to the conclusion that something about either the Gateway or Pamant itself prevents the growth of technology beyond a certain level.%0a> %0a
+host:1218748816=78.145.149.14
+author:1218748805=michael
+diff:1218748805:1218748805:=1,7d0%0a%3c Many people coming through the Gateway claim to come from worlds with technological marvels that sound almost unbelievable to the residents of Pamant, especially as they claim these effects are achieved without magic, psychic abilities or the help of the Lords.%0a%3c %0a%3c After all, what does draw their horseless carriages? And giant metal vehicles that fly under their own power? Machines that "think" but have no imagination?%0a%3c %0a%3c The disbelief is further compounded by the fact that none of these people can ever explain how or why these devices worked, or replicate them in Pamant ""even if they claim they did know how in their own worlds"". Those few who believe that these travellers are telling the truth ([[The Gatekeeper]] among them) have come to the conclusion that something about either the Gateway or Pamant itself prevents the growth of technology beyond a certain level.%0a%3c %0a%3c Why this is the case, and who enforces the block, no one is quite sure.%0a\ No newline at end of file%0a
+host:1218748805=78.145.149.14

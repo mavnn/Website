@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Linux; U; Android 2.2; en-gb; HTC_Desire-orange-LS Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+author=
+csum=
+ctime=1257706018
+host=87.194.105.166
+name=Nano.Nasir
+rev=2
+targets=
+text=Nasir comes from the deep dessert thus is confused when it rains, has little knowledge of this place called 'the sea' and most would consider him slow because of this.%0a%0aBloodlines%0aHaythams - eagle. Pale blue hair%0aKahn - scout. Silvered eyes.%0a%0aBody 4%0aMind 3%0aSoul 2%0a%0aCrow 1%0aEagle 2%0aBull%0aGoat 1%0aMonkey%0aCamel%0aCat 6%0aBear%0aWolf 3%0aHorse 1%0aSnake 1%0aRat 2
+time=1295383977
+author:1295383977=
+diff:1295383977:1257706018:=1,22c1%0a%3c Nasir comes from the deep dessert thus is confused when it rains, has little knowledge of this place called 'the sea' and most would consider him slow because of this.%0a%3c %0a%3c Bloodlines%0a%3c Haythams - eagle. Pale blue hair%0a%3c Kahn - scout. Silvered eyes.%0a%3c %0a%3c Body 4%0a%3c Mind 3%0a%3c Soul 2%0a%3c %0a%3c Crow 1%0a%3c Eagle 2%0a%3c Bull%0a%3c Goat 1%0a%3c Monkey%0a%3c Camel%0a%3c Cat 6%0a%3c Bear%0a%3c Wolf 3%0a%3c Horse 1%0a%3c Snake 1%0a%3c Rat 2%0a\ No newline at end of file%0a---%0a> Nasir comes from the deep dessert thus is confused when it rains, has little knowledge of this place called 'the sea' and most would consider him slow because of this.%0a\ No newline at end of file%0a
+host:1295383977=87.194.105.166
+author:1257706018=
+diff:1257706018:1257706018:=1d0%0a%3c Nasir comes from the deep dessert thus is confused when it rains, has little knowledge of this place called 'the sea' and most would consider him slow because of this.%0a\ No newline at end of file%0a
+host:1257706018=87.194.104.125

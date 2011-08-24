@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+author=Michael
+csum=
+ctime=1218469289
+host=62.231.146.140
+name=Meta.Technology
+rev=1
+targets=Playground.Technology
+text=Is still undecided, basically.%0a%0aThis is definately a fantasy world, so I don't want computers or cars for example. On the other hand, I'm not sure about things like gunpowder: it's tempting on the one hand to go for a D&Desque mix of everything and the kitchen sink to keep things open, or on the other hand to pick a historic era and go for it.%0a%0aIf you want to comment, head on over to [[Playground.Technology]] and let me know what you think...
+time=1218469289
+author:1218469289=Michael
+diff:1218469289:1218469289:=1,5d0%0a%3c Is still undecided, basically.%0a%3c %0a%3c This is definately a fantasy world, so I don't want computers or cars for example. On the other hand, I'm not sure about things like gunpowder: it's tempting on the one hand to go for a D&Desque mix of everything and the kitchen sink to keep things open, or on the other hand to pick a historic era and go for it.%0a%3c %0a%3c If you want to comment, head on over to [[Playground.Technology]] and let me know what you think...%0a\ No newline at end of file%0a
+host:1218469289=62.231.146.140

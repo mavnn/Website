@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+author=Michael
+csum=
+ctime=1218028834
+host=62.231.146.140
+name=Meta.NamingConventions
+rev=1
+targets=
+text=I hate making up names. It's slow, time consuming and they don't tend to sound any good.%0a%0aAs a bonus extra, if you use something you're not satisfied with as a placeholder it tends to stick%0awith the character/place for evermore.%0a%0aTo get fairly consistent and real sounding names, I've taken the decision that the names in Pamant on %0aRomanian - or at least on [[http://translate.google.com/translate_t?sl=en&tl=ro | Google Translate]]'s best%0aguess at Romanian. Notice I said based on: I'll be tweaking things to make them sound better to the English %0aspeaking ear, merging words to create names and generally using it for inspiration.%0a%0aBut at least it will free up the actual writing process, rather than spending all of my limited writing time %0atrying and discarding names.%0a%0aAs well as using Google Translate, it means I can also just use lists of ([[http://www.20000-names.com/male_romanian_names.htm | male]] and [[http://www.20000-names.com/female_romanian_names.htm | female]]) real %0aRomanian names and still have them fit in style with the setting.%0a%0aSo, why Pamant? Because it's earth in Romanian...
+time=1218028834
+author:1218028834=Michael
+diff:1218028834:1218028834:=1,17d0%0a%3c I hate making up names. It's slow, time consuming and they don't tend to sound any good.%0a%3c %0a%3c As a bonus extra, if you use something you're not satisfied with as a placeholder it tends to stick%0a%3c with the character/place for evermore.%0a%3c %0a%3c To get fairly consistent and real sounding names, I've taken the decision that the names in Pamant on %0a%3c Romanian - or at least on [[http://translate.google.com/translate_t?sl=en&tl=ro | Google Translate]]'s best%0a%3c guess at Romanian. Notice I said based on: I'll be tweaking things to make them sound better to the English %0a%3c speaking ear, merging words to create names and generally using it for inspiration.%0a%3c %0a%3c But at least it will free up the actual writing process, rather than spending all of my limited writing time %0a%3c trying and discarding names.%0a%3c %0a%3c As well as using Google Translate, it means I can also just use lists of ([[http://www.20000-names.com/male_romanian_names.htm | male]] and [[http://www.20000-names.com/female_romanian_names.htm | female]]) real %0a%3c Romanian names and still have them fit in style with the setting.%0a%3c %0a%3c So, why Pamant? Because it's earth in Romanian...%0a\ No newline at end of file%0a
+host:1218028834=62.231.146.140

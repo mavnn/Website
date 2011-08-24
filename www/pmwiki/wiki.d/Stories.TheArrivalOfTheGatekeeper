@@ -1,0 +1,23 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17
+author=
+csum=
+ctime=1229202248
+host=212.118.239.254
+name=Stories.TheArrivalOfTheGatekeeper
+rev=4
+targets=Characters.TheGatekeeper,Events.TheGatekeeperArrivesInPamant,Stories.AotG1-Before,Stories.AotG2-Passage,Stories.AotG3-FirstSteps
+text=The arrival of [[Characters/the Gatekeeper|the Gatekeeper]], and [[Events/theGatekeeperArrivesInPamant|of what followed]].%0a%0a* [[AotG 1 - Before]]%0a* [[AotG 2 - Passage]]%0a* [[AotG 3 - First Steps]]
+time=1229204822
+author:1229204822=
+diff:1229204822:1229204336:=1,2c1,2%0a%3c The arrival of [[Characters/the Gatekeeper|the Gatekeeper]], and [[Events/theGatekeeperArrivesInPamant|of what followed]].%0a%3c %0a---%0a> The arrival of [[Characters/the Gatekeeper|the Gatekeeper]], and of what followed.%0a> %0a
+host:1229204822=212.118.239.254
+author:1229204336=
+diff:1229204336:1229204225:=1,2c1,2%0a%3c The arrival of [[Characters/the Gatekeeper|the Gatekeeper]], and of what followed.%0a%3c %0a---%0a> The arrival of [[the Gatekeeper|Characters/theGatekeeper]], and of what followed.%0a> %0a
+host:1229204336=212.118.239.254
+author:1229204225=
+diff:1229204225:1229202248:=1,2d0%0a%3c The arrival of [[the Gatekeeper|Characters/theGatekeeper]], and of what followed.%0a%3c %0a
+host:1229204225=212.118.239.254
+author:1229202248=
+diff:1229202248:1229202248:=1,3d0%0a%3c * [[AotG 1 - Before]]%0a%3c * [[AotG 2 - Passage]]%0a%3c * [[AotG 3 - First Steps]]%0a\ No newline at end of file%0a
+host:1229202248=212.118.239.254

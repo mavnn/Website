@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.0.1) Gecko/2008072820 Firefox/3.0.1
+author=michael
+csum=
+ctime=1219955746
+host=78.150.18.138
+name=Backdrops.Dwarves
+rev=1
+targets=
+text=The dwarves of Pamant are about what you'd expect: short, tough and bad tempered.%0a%0aAlthough they don't live completely underground (they do rely on agriculture) they are the master miners of the world and appear to be linked to the mountains that they make their homes - quite literally. A dwarf who's bare feet are touching stone can 'meld' with it, creating an almost unbreakable bond between himself and the rock, making him tougher, stronger - and immobile... Because of this gift, dwarves rarely wear shoes.%0a%0aDwarves of both sexes tend to be short and wide by human standards, with the men often wearing long beards.
+time=1219955746
+author:1219955746=michael
+diff:1219955746:1219955746:=1,5d0%0a%3c The dwarves of Pamant are about what you'd expect: short, tough and bad tempered.%0a%3c %0a%3c Although they don't live completely underground (they do rely on agriculture) they are the master miners of the world and appear to be linked to the mountains that they make their homes - quite literally. A dwarf who's bare feet are touching stone can 'meld' with it, creating an almost unbreakable bond between himself and the rock, making him tougher, stronger - and immobile... Because of this gift, dwarves rarely wear shoes.%0a%3c %0a%3c Dwarves of both sexes tend to be short and wide by human standards, with the men often wearing long beards.%0a\ No newline at end of file%0a
+host:1219955746=78.150.18.138

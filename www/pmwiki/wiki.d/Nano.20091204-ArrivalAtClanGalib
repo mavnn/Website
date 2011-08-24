@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.11 Safari/532.5
+author=michael
+csum=
+ctime=1259963787
+host=87.194.105.166
+name=Nano.20091204-ArrivalAtClanGalib
+rev=2
+targets=
+text=Very rough notes, expanding welcome...%0a%0aClan Farag%0a%0aLeader: Mahmud%0a%0aScum: Hakeem and others%0a%0aScum dropped off with Mahmud, favour owed. Small sum of money given.%0a%0aAt Clan Gurib%0a%0aLeader 'Father' Fayiz or the blood of Bassim (Black mat hair)%0aWife: Jameela%0a%0aElders are the Uncles of the clan%0a%0aScout Hasan%0a%0aSon: Rashid %0aUncles: Khalil, Heshem, Berker%0a%0aTrade envoy: Mithradates%0a%0aSent to be cartographers on the Northern border, with Hasan, Tahir and Miha.%0a%0aScout Master: Khalilah (f)
+time=1259964718
+author:1259964718=michael
+diff:1259964718:1259963787:=1,2c1,2%0a%3c Very rough notes, expanding welcome...%0a%3c %0a---%0a> Very rough notes, xp for expanding...%0a> %0a
+host:1259964718=87.194.105.166
+author:1259963787=michael
+diff:1259963787:1259963787:=1,27d0%0a%3c Very rough notes, xp for expanding...%0a%3c %0a%3c Clan Farag%0a%3c %0a%3c Leader: Mahmud%0a%3c %0a%3c Scum: Hakeem and others%0a%3c %0a%3c Scum dropped off with Mahmud, favour owed. Small sum of money given.%0a%3c %0a%3c At Clan Gurib%0a%3c %0a%3c Leader 'Father' Fayiz or the blood of Bassim (Black mat hair)%0a%3c Wife: Jameela%0a%3c %0a%3c Elders are the Uncles of the clan%0a%3c %0a%3c Scout Hasan%0a%3c %0a%3c Son: Rashid %0a%3c Uncles: Khalil, Heshem, Berker%0a%3c %0a%3c Trade envoy: Mithradates%0a%3c %0a%3c Sent to be cartographers on the Northern border, with Hasan, Tahir and Miha.%0a%3c %0a%3c Scout Master: Khalilah (f)%0a\ No newline at end of file%0a
+host:1259963787=87.194.105.166

@@ -1,0 +1,20 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729)
+author=
+csum=
+ctime=1258752709
+host=87.194.105.166
+name=Nano.Wassim
+rev=3
+targets=
+text=Short, wiry 15yr old boy. Has black, shoulder-length hair and a charming boyish grin. %0a%0aVery much a street urchin, he has a quick wit and quicker hands.%0a%0aCharacter Notes:%0a%0aGains a temporary die when riding (once)
+time=1258753238
+author:1258753238=
+diff:1258753238:1258753003:=7c7%0a%3c Gains a temporary die when riding (once)%0a\ No newline at end of file%0a---%0a> Gains a temporary die when riding%0a\ No newline at end of file%0a
+host:1258753238=87.194.105.166
+author:1258753003=
+diff:1258753003:1258752709:=3,7c3%0a%3c Very much a street urchin, he has a quick wit and quicker hands.%0a%3c %0a%3c Character Notes:%0a%3c %0a%3c Gains a temporary die when riding%0a\ No newline at end of file%0a---%0a> Very much a street urchin, he has a quick wit and quicker hands.%0a\ No newline at end of file%0a
+host:1258753003=87.194.105.166
+author:1258752709=
+diff:1258752709:1258752709:=1,3d0%0a%3c Short, wiry 15yr old boy. Has black, shoulder-length hair and a charming boyish grin. %0a%3c %0a%3c Very much a street urchin, he has a quick wit and quicker hands.%0a\ No newline at end of file%0a
+host:1258752709=87.194.105.166

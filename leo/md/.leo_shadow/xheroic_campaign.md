@@ -1,0 +1,30 @@
+#--unknown-language--@+leo-ver=4-thin
+#--unknown-language--@+node:mavnn.20110823124208.1126:@shadow heroic_campaign.md
+# Ideas for a 'heroic' fantasy campaign
+
+The premise is to model a fantasy campaign around the types of stories where magic exists, heroic abilities are common (or at least possible), but magic is a strange, possible evil power that cannot be wielded by normal 'humans'.
+
+Examples would include:
+
+* Norse/Greek myths (magic is common, but wielded by the gods and strange creatures almost exclusively)
+* Arthurian sagas (magic items and some strange creatures, but magic uses are mysterious, unknowable and frequently evil)
+* Conan (superhuman feats are common place, but magic is nasty, evil stuff)
+
+To make life easy, the campaign would be based off the [Pathfinder](http://d20pfsrd.com) rules, with the following changes:
+
+* Remove all supernatural and spell based class abilities (this makes quite a few classes... unattractive to play).
+* To compensate for lack of stat boosting magic items, characters receive +1 to all stats at 2nd level and each 4 levels there after...
+* ...and at 4th level and per 4 after, add +1 each to 3 different stats rather than to a single stat.
+* To compensate for the lack of magical equipment, characters gain a +1 attack, +1 ac, +1 damage and +5ft movement bonus at 3rd level and each 3 levels after. These apply to whatever equipment (including barehands/normal clothing) the character has available at that moment.
+  * If it makes sense to 'split' one of these bonuses, reduce the bonus by one for each extra piece of equipment it's shared with. GMs decision is final, but generally the ac bonus can be split between armour and shield, and the attack/damage bonus can be split between wielded weapons. For example, a 6th level character might choose to wield a greatsword with a +2 attack and damage, or two short swords +1. Similarly, a 9th level character could fight with both hands full and +3 armour, or could use shield +2 and armour +2.
+* Magic items that do fall into player hands will almost exclusively grant unusual abilities (bane, flaming, sharp) without an enhancement bonus. And normally only one ability. And they're rare.
+* A lot of backgrounds would immediately remove all races but humans, but I'm not sure this is actually needed for the feel to work.
+
+Even with the above, I suspect that 'heroes' will fall behind normal Pathfinder characters at higher level in power, but without playtesting my guess is that the above would allow unmodified Pathfinder threat levels to be used up to the 10+ level range. After that, the lack of bizarre game changing spells and the different feel of the campaign would probably require more and more custom modification.
+
+Unlike my last attempt at running a campaign, this idea would allow games with little prep work (just grab Pathfinder/DnD modules and modify as needed), could be set in a variety of backgrounds player would already know (Greek myth? Slightly modified Sparhawk?) and would start off fairly small and static (a small village/town would be the ideal starting location, things could build from there).
+
+[Back to the index!](index.html)
+#--unknown-language--@nonl
+#--unknown-language--@-node:mavnn.20110823124208.1126:@shadow heroic_campaign.md
+#--unknown-language--@-leo

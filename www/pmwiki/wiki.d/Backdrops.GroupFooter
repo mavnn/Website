@@ -1,0 +1,23 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+author=Michael
+csum=
+ctime=1218031444
+host=62.231.146.140
+name=Backdrops.GroupFooter
+rev=4
+targets=Playground.GroupFooter
+text=!!! Links to this page:%0a(:pagelist link={$FullName} name=-Backdrops:)%0a%0a!!!! Comment on this page:%0a[[Playground.{$Name}]]
+time=1218544007
+author:1218544007=Michael
+diff:1218544007:1218459452:=2,5c2%0a%3c (:pagelist link={$FullName} name=-Backdrops:)%0a%3c %0a%3c !!!! Comment on this page:%0a%3c [[Playground.{$Name}]]%0a\ No newline at end of file%0a---%0a> (:pagelist link={$FullName} name=-Backdrops:)%0a\ No newline at end of file%0a
+host:1218544007=62.231.146.140
+author:1218459452=Michael
+diff:1218459452:1218031479:=2c2%0a%3c (:pagelist link={$FullName} name=-Backdrops:)%0a\ No newline at end of file%0a---%0a> (:pagelist link={$FullName}:)%0a\ No newline at end of file%0a
+host:1218459452=62.231.146.140
+author:1218031479=Michael
+diff:1218031479:1218031444:=1d0%0a%3c !!! Links to this page:%0a
+host:1218031479=62.231.146.140
+author:1218031444=Michael
+diff:1218031444:1218031444:=1d0%0a%3c (:pagelist link={$FullName}:)%0a\ No newline at end of file%0a
+host:1218031444=62.231.146.140

@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.0.1) Gecko/2008072820 Firefox/3.0.1
+author=michael
+csum=
+ctime=1219957039
+host=78.150.18.138
+name=Backdrops.ElvenRoyalFamily
+rev=1
+targets=
+text=Although referred to as royals, the elven royal family isn't in any normal sense of the term. Elven society is not feudal, and there is no state as such, meaning that the royals have very little official control over society. What they do have is massive personal power, and a tendency to be wise. Between the two, the other elves tend to regard them with a large amount of respect.%0a%0aThe "royal" family is the family in which the mastery of the winds has bred most true, and even the weakest of the family line can leap tremendous distances, control the weather in their immediate vicinity and throw blades of sharpened air at assailants.
+time=1219957039
+author:1219957039=michael
+diff:1219957039:1219957039:=1,3d0%0a%3c Although referred to as royals, the elven royal family isn't in any normal sense of the term. Elven society is not feudal, and there is no state as such, meaning that the royals have very little official control over society. What they do have is massive personal power, and a tendency to be wise. Between the two, the other elves tend to regard them with a large amount of respect.%0a%3c %0a%3c The "royal" family is the family in which the mastery of the winds has bred most true, and even the weakest of the family line can leap tremendous distances, control the weather in their immediate vicinity and throw blades of sharpened air at assailants.%0a\ No newline at end of file%0a
+host:1219957039=78.150.18.138

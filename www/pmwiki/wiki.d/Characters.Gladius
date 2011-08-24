@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+author=
+csum=
+ctime=1218544919
+host=62.231.146.140
+name=Characters.Gladius
+rev=2
+targets=Category.Human,Category.Nomad,Category.Parthenon
+text=See the playground page for now.%0a%0aCategories: [[!Human]], [[!Nomad]], [[!Parthenon]]
+time=1218544970
+author:1218544970=
+diff:1218544970:1218544919:=1,3c1%0a%3c See the playground page for now.%0a%3c %0a%3c Categories: [[!Human]], [[!Nomad]], [[!Parthenon]]%0a\ No newline at end of file%0a---%0a> See the playground page for now.%0a\ No newline at end of file%0a
+host:1218544970=62.231.146.140
+author:1218544919=
+diff:1218544919:1218544919:=1d0%0a%3c See the playground page for now.%0a\ No newline at end of file%0a
+host:1218544919=62.231.146.140

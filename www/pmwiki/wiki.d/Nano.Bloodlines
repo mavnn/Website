@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.3) Gecko/20090924 Ubuntu/9.10 (karmic) Firefox/3.5.3
+author=Michael
+csum=
+ctime=1255380121
+host=87.194.105.166
+name=Nano.Bloodlines
+rev=1
+targets=Nano.Shamans,Nano.Makers,Nano.PlantSmiths,Nano.AnimalSmiths,Nano.Eagles,Nano.Scouts,Nano.Communicators,Nano.Healers
+text=! Bloodlines%0a%0aInherited nano machine colonies that provide a variety of special abilities.%0a%0a!! Major Bloods%0a* [[Shamans]]%0a* [[Makers]]%0a* Lifesmiths%0a** [[ PlantSmiths | Plant Smiths ]]%0a** [[ AnimalSmiths | Animal Smiths ]]%0a* [[Eagles]]%0a* [[Scouts]]%0a* [[Communicators]]%0a* [[Healers]]%0a%0a!! Minor Bloods%0a* Artificial colouration%0a* Ability to slowly vary colouration (hair, eyes, skin)%0a* ...others? Suggestions on a postcard, please
+time=1255380121
+author:1255380121=Michael
+diff:1255380121:1255380121:=1,19d0%0a%3c ! Bloodlines%0a%3c %0a%3c Inherited nano machine colonies that provide a variety of special abilities.%0a%3c %0a%3c !! Major Bloods%0a%3c * [[Shamans]]%0a%3c * [[Makers]]%0a%3c * Lifesmiths%0a%3c ** [[ PlantSmiths | Plant Smiths ]]%0a%3c ** [[ AnimalSmiths | Animal Smiths ]]%0a%3c * [[Eagles]]%0a%3c * [[Scouts]]%0a%3c * [[Communicators]]%0a%3c * [[Healers]]%0a%3c %0a%3c !! Minor Bloods%0a%3c * Artificial colouration%0a%3c * Ability to slowly vary colouration (hair, eyes, skin)%0a%3c * ...others? Suggestions on a postcard, please%0a\ No newline at end of file%0a
+host:1255380121=87.194.105.166

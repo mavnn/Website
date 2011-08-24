@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.0.15) Gecko/2009102815 Ubuntu/9.04 (jaunty) Firefox/3.0.15
+author=
+csum=
+ctime=1257540073
+host=87.194.105.166
+name=Nano.Shamans
+rev=2
+targets=
+text=of the blood of Nabbi%0atrait:pointy ears
+time=1257540230
+author:1257540230=
+diff:1257540230:1257540073:=1,2c1,2%0a%3c of the blood of Nabbi%0a%3c trait:pointy ears%0a\ No newline at end of file%0a---%0a> of the blood of Nabih%0a> pointy ears%0a\ No newline at end of file%0a
+host:1257540230=87.194.105.166
+author:1257540073=
+diff:1257540073:1257540073:=1,2d0%0a%3c of the blood of Nabih%0a%3c pointy ears%0a\ No newline at end of file%0a
+host:1257540073=87.194.105.166

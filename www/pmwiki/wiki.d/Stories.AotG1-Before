@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.17) Gecko/20080829 Firefox/2.0.0.17
+author=
+csum=
+ctime=1229202345
+host=212.118.239.254
+name=Stories.AotG1-Before
+rev=2
+targets=
+text=The battle was a mess. The front line had broken and fled in disgrace half an hour ago, leaving the enemy free range of the battlefield with their superior numbers of both archers and cavalry. The diamyo's flag had fallen around the same time, and everyone seemed to think he was dead: which in turn meant that they had failed him, and that (for the samurai at least) they should be following him as soon as they'd avenged his death or died trying. The avenging was looking like a steep task: the other, not so much...%0a%0aIt was not, all in all, being a good first battle for a junior officer.%0a%0a%3c|[The Arrival of the Gatekeeper]|>
+time=1229203793
+author:1229203793=
+diff:1229203793:1229202345:=1,4d0%0a%3c The battle was a mess. The front line had broken and fled in disgrace half an hour ago, leaving the enemy free range of the battlefield with their superior numbers of both archers and cavalry. The diamyo's flag had fallen around the same time, and everyone seemed to think he was dead: which in turn meant that they had failed him, and that (for the samurai at least) they should be following him as soon as they'd avenged his death or died trying. The avenging was looking like a steep task: the other, not so much...%0a%3c %0a%3c It was not, all in all, being a good first battle for a junior officer.%0a%3c %0a
+host:1229203793=212.118.239.254
+author:1229202345=
+diff:1229202345:1229202345:=1d0%0a%3c %3c|[The Arrival of the Gatekeeper]|>%0a\ No newline at end of file%0a
+host:1229202345=212.118.239.254

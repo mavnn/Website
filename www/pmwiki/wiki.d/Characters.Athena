@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+author=
+csum=
+ctime=1218544954
+host=62.231.146.140
+name=Characters.Athena
+rev=1
+targets=Category.Human,Category.Nomad,Category.Parthenon
+text=See the Playground page for now.%0a%0aCategories: [[!Human]], [[!Nomad]], [[!Parthenon]]
+time=1218544954
+author:1218544954=
+diff:1218544954:1218544954:=1,3d0%0a%3c See the Playground page for now.%0a%3c %0a%3c Categories: [[!Human]], [[!Nomad]], [[!Parthenon]]%0a\ No newline at end of file%0a
+host:1218544954=62.231.146.140

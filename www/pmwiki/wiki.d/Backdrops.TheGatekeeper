@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+author=Michael
+csum=
+ctime=1218031763
+host=62.231.146.140
+name=Backdrops.TheGatekeeper
+rev=2
+targets=
+text=
+time=1218032099
+author:1218032099=Michael
+diff:1218032099:1218031763:=0a1,13%0a> I do not appear to be dead.%0a> %0a> This is, it must be admitted, something of a failing. Even the certain knowledge of being either dead or alive would be somewhat comforting, but it is not a comfort I seem destined to possess at this time.%0a> %0a> Either option seems equally unlikely in this new and strange land I now find myself in. Mere moments ago I stood upon the slopes of a hill in fair Japan, but the flora and fauna arrayed around me is not known in that place. The trees are strange to me, the flowers unknown. Worse, a gull, which appeared initially familiar in shape, just swooped down to wish me good day before continuing on it's course. This last most of all would seem good evidence that I have in fact died, as would be my duty, except for one small detail.%0a> %0a> Nothing has killed me.%0a> %0a> I have sustained no injury, noticed no period of unconsciousness. No wounds adorn my body. I did walk through a dark cave in somewhat of a hurry, but I did not expect to become so lost as to stumble into the afterlife.%0a> %0a> How very strange.%0a> %0a> Well, no matter. I have my bow, and game seems plentiful (although perhaps I should ascertain the rabbits will not answer me back before taking aim for dinner). And dead or not, I suspect my state is close enough to satisfy honour for now. I will have to see what else I can discover, and continue from there.%0a\ No newline at end of file%0a
+host:1218032099=62.231.146.140
+author:1218031763=Michael
+diff:1218031763:1218031763:=1,13d0%0a%3c I do not appear to be dead.%0a%3c %0a%3c This is, it must be admitted, something of a failing. Even the certain knowledge of being either dead or alive would be somewhat comforting, but it is not a comfort I seem destined to possess at this time.%0a%3c %0a%3c Either option seems equally unlikely in this new and strange land I now find myself in. Mere moments ago I stood upon the slopes of a hill in fair Japan, but the flora and fauna arrayed around me is not known in that place. The trees are strange to me, the flowers unknown. Worse, a gull, which appeared initially familiar in shape, just swooped down to wish me good day before continuing on it's course. This last most of all would seem good evidence that I have in fact died, as would be my duty, except for one small detail.%0a%3c %0a%3c Nothing has killed me.%0a%3c %0a%3c I have sustained no injury, noticed no period of unconsciousness. No wounds adorn my body. I did walk through a dark cave in somewhat of a hurry, but I did not expect to become so lost as to stumble into the afterlife.%0a%3c %0a%3c How very strange.%0a%3c %0a%3c Well, no matter. I have my bow, and game seems plentiful (although perhaps I should ascertain the rabbits will not answer me back before taking aim for dinner). And dead or not, I suspect my state is close enough to satisfy honour for now. I will have to see what else I can discover, and continue from there.%0a\ No newline at end of file%0a
+host:1218031763=62.231.146.140

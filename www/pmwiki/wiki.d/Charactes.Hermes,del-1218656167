@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.0.1) Gecko/2008072820 Firefox/3.0.1
+author=michael
+csum=
+ctime=1218656075
+host=89.240.170.19
+name=Charactes.Hermes
+rev=1
+targets=Charactes.Vant,Category.Human,Category.Lordbound,Category.Nomad,Category.Parthenon
+text=Lordbound of [[Vant]] and founder of the Parthenon.%0a%0aCategories: [[!Human]], [[!Lordbound]], [[!Nomad]], [[!Parthenon]]
+time=1218656075
+author:1218656075=michael
+diff:1218656075:1218656075:=1,3d0%0a%3c Lordbound of [[Vant]] and founder of the Parthenon.%0a%3c %0a%3c Categories: [[!Human]], [[!Lordbound]], [[!Nomad]], [[!Parthenon]]%0a\ No newline at end of file%0a
+host:1218656075=89.240.170.19

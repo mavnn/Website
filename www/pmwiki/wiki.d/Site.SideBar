@@ -1,0 +1,33 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+author=michael
+csum=
+host=62.231.153.50
+name=Site.SideBar
+passwdedit=@_site_edit
+rev=7
+targets=Main.HomePage,Main.WikiSandbox,Stories.Stories,Characters.Characters,Backdrops.Backdrops,Events.Events,Timeline.Timeline,Meta.Meta,Playground.Playground,SciFi.FirstIdeas,Nano.Nano,PmWiki.PmWiki,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.FAQ,PmWiki.PmWikiPhilosophy,Site.SideBar
+text=%25sidehead%25 Main pages%0a* [[Main/HomePage | Wiki Homepage]]%0a* [[http://mavnn.co.uk | My homepage]]%0a* [[Main/WikiSandbox]]%0a%0a%25sidehead%25 The Story%0a* [[Stories/]]%0a%0a%25sidehead%25 Reference%0a* [[Characters/]]%0a* [[Backdrops/]]%0a* [[Events/]]%0a** [[Timeline/]]%0a%0a%25sidehead%25 Meta%0a* [[Meta/]]%0a* [[Playground/]]%0a%0a%25sidehead%25 SciFi%0a* [[SciFi/FirstIdeas]]%0a%0a%25sidehead%25 Nano%0a* [[Nano/]]%0a%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[PmWiki/Basic Editing]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a* [[PmWiki/PmWikiPhilosophy]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1247057049
+author:1247057049=michael
+diff:1247057049:1230673585:=22,24d21%0a%3c %25sidehead%25 Nano%0a%3c * [[Nano/]]%0a%3c %0a
+host:1247057049=62.231.153.50
+author:1230673585=
+diff:1230673585:1218392285:=19,21d18%0a%3c %25sidehead%25 SciFi%0a%3c * [[SciFi/FirstIdeas]]%0a%3c %0a
+host:1230673585=78.145.67.11
+author:1218392285=
+diff:1218392285:1218009898:=13,14c13,14%0a%3c ** [[Timeline/]]%0a%3c %0a---%0a> ** [[Events/Timeline]]%0a> %0a
+host:1218392285=78.86.107.69
+author:1218009898=Michael
+diff:1218009898:1217941701:=11c11%0a%3c * [[Backdrops/]]%0a---%0a> * [[Locations/]]%0a
+host:1218009898=62.231.146.140
+author:1217941701=Michael
+diff:1217941701:1217941161:=2,3c2%0a%3c * [[Main/HomePage | Wiki Homepage]]%0a%3c * [[http://mavnn.co.uk | My homepage]]%0a---%0a> * [[Main/HomePage]]%0a
+host:1217941701=62.231.146.140
+author:1217941161=Michael
+diff:1217941161:1217941085:=18a19%0a> * [[PmWiki/Initial Setup Tasks]]  %0a23c24,26%0a%3c %0a---%0a> * [[PmWiki/Release Notes]]%0a> * [[PmWiki/ChangeLog]]%0a> %0a
+host:1217941161=62.231.146.140
+author:1217941085=Michael
+csum:1217941085=Added basic organisation of wiki
+diff:1217941085:1125550800:=1d0%0a%3c %25sidehead%25 Main pages%0a5,17d3%0a%3c %25sidehead%25 The Story%0a%3c * [[Stories/]]%0a%3c %0a%3c %25sidehead%25 Reference%0a%3c * [[Characters/]]%0a%3c * [[Locations/]]%0a%3c * [[Events/]]%0a%3c ** [[Events/Timeline]]%0a%3c %0a%3c %25sidehead%25 Meta%0a%3c * [[Meta/]]%0a%3c * [[Playground/]]%0a%3c %0a26a13,18%0a> %25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a> * [[Cookbook:CookbookBasics | Cookbook (addons) ]]%0a> * [[Cookbook:Skins | Skins (themes) ]]%0a> * [[PITS:PITS | PITS (issue tracking) ]]%0a> * [[PmWiki/Mailing Lists]]%0a> %0a
+host:1217941085=62.231.146.140

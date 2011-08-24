@@ -1,0 +1,23 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+author=Michael
+csum=
+ctime=1218029829
+host=62.231.146.140
+name=Meta.OneGod
+rev=4
+targets=Meta.TheLordsOfLightAndDarkness
+text=If I'm going to be sending time thinking about and writing in a world, it needs to be something %0athat I feel comfortable dwelling on. Given my beliefs, this means that I'm much happier working %0ain a world with a single omniscient, omnipotent, omnibeneficent god. I'm sure I've spelt at least %0aone of these wrong.%0a%0aThis doesn't mean that everything in the stories will be based on "religion" (although it's pretty %0aimportant for various reasons) or that all of the characters in the stories will believe the truth, %0abut as the author I'll always know what the underlying truth of the setting is.%0a%0aThe only issue with this is that one of the aims of this project is to write a mythology: I want characters %0aavailable who can jump mountains, drink rivers and cause cities to float on upturned mountain tops.%0a%0aHence [[the Lords of Light and Darkness]], also giving me the convenient moniker of the Lord of Lords for %0athe one god.
+time=1218030321
+author:1218030321=Michael
+diff:1218030321:1218029920:=13c13%0a%3c Hence [[the Lords of Light and Darkness]], also giving me the convenient moniker of the Lord of Lords for %0a---%0a> Hence [[!the Lords of Light and Darkness]], also giving me the convenient moniker of the Lord of Lords for %0a
+host:1218030321=62.231.146.140
+author:1218029920=Michael
+diff:1218029920:1218029851:=13c13%0a%3c Hence [[!the Lords of Light and Darkness]], also giving me the convenient moniker of the Lord of Lords for %0a---%0a> Hence the [[!Lords of Light and Darkness]], also giving me the convenient moniker of the Lord of Lords for %0a
+host:1218029920=62.231.146.140
+author:1218029851=Michael
+diff:1218029851:1218029829:=13c13%0a%3c Hence the [[!Lords of Light and Darkness]], also giving me the convenient moniker of the Lord of Lords for %0a---%0a> Hence the [[Lords of Light and Darkness]], also giving me the convenient moniker of the Lord of Lords for %0a
+host:1218029851=62.231.146.140
+author:1218029829=Michael
+diff:1218029829:1218029829:=1,14d0%0a%3c If I'm going to be sending time thinking about and writing in a world, it needs to be something %0a%3c that I feel comfortable dwelling on. Given my beliefs, this means that I'm much happier working %0a%3c in a world with a single omniscient, omnipotent, omnibeneficent god. I'm sure I've spelt at least %0a%3c one of these wrong.%0a%3c %0a%3c This doesn't mean that everything in the stories will be based on "religion" (although it's pretty %0a%3c important for various reasons) or that all of the characters in the stories will believe the truth, %0a%3c but as the author I'll always know what the underlying truth of the setting is.%0a%3c %0a%3c The only issue with this is that one of the aims of this project is to write a mythology: I want characters %0a%3c available who can jump mountains, drink rivers and cause cities to float on upturned mountain tops.%0a%3c %0a%3c Hence the [[Lords of Light and Darkness]], also giving me the convenient moniker of the Lord of Lords for %0a%3c the one god.%0a\ No newline at end of file%0a
+host:1218029829=62.231.146.140

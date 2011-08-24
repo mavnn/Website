@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.0.4) Gecko/2008111317 Ubuntu/8.04 (hardy) Firefox/3.0.3
+author=
+csum=
+ctime=1230673408
+host=78.145.67.11
+name=SciFi.GroupFooter
+rev=1
+targets=Playground.GroupFooter
+text=!!! Links to this page:%0a(:pagelist link={$FullName} name=-Characters:)%0a%0a!!!! Comment on this page:%0a[[Playground.{$Name}]]
+time=1230673408
+author:1230673408=
+diff:1230673408:1230673408:=1,5d0%0a%3c !!! Links to this page:%0a%3c (:pagelist link={$FullName} name=-Characters:)%0a%3c %0a%3c !!!! Comment on this page:%0a%3c [[Playground.{$Name}]]%0a\ No newline at end of file%0a
+host:1230673408=78.145.67.11

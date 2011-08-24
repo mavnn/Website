@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.0.15) Gecko/2009102815 Ubuntu/9.04 (jaunty) Firefox/3.0.15
+author=
+csum=
+ctime=1257539848
+host=87.194.105.166
+name=Nano.Healers
+rev=1
+targets=
+text=Healers are of the Blood of Mahir%0a%0aDistinctive trait is long, nimble fingers with a golden hue to their fingernails, more or less pronounced in each individual.%0a%0a
+time=1257539848
+author:1257539848=
+diff:1257539848:1257539848:=1,4d0%0a%3c Healers are of the Blood of Mahir%0a%3c %0a%3c Distinctive trait is long, nimble fingers with a golden hue to their fingernails, more or less pronounced in each individual.%0a%3c %0a
+host:1257539848=87.194.105.166

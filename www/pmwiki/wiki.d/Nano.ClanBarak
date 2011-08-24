@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/532.3 (KHTML, like Gecko) Chrome/4.0.223.11 Safari/532.3
+author=michael
+csum=
+ctime=1257370895
+host=87.194.105.166
+name=Nano.ClanBarak
+rev=2
+targets=Nano.HaythamsBlood,Nano.Eagles
+text=! Clan Barak%0a%0a!!! Current Head: Hikmat, son of Qadir of the blood of Haytham and the clan of Barak%0a!!! Population: Roughly 200%0a%0aA small clan from the far East of the nomad lands, Clan Barak live as far into the Great Desert as anyone would care to. Dispite their small size, Barak are famous around the world for their scouts, who hire out as an elite mercenary unit (of about 15 men). [[HaythamsBlood | Haytham's  blood]] runs strong in their veins, with several of men and women of the clan having [[Eagles | eagle blood]] abilities.
+time=1257370914
+author:1257370914=michael
+diff:1257370914:1257370895:=1,2d0%0a%3c ! Clan Barak%0a%3c %0a
+host:1257370914=87.194.105.166
+author:1257370895=michael
+diff:1257370895:1257370895:=1,4d0%0a%3c !!! Current Head: Hikmat, son of Qadir of the blood of Haytham and the clan of Barak%0a%3c !!! Population: Roughly 200%0a%3c %0a%3c A small clan from the far East of the nomad lands, Clan Barak live as far into the Great Desert as anyone would care to. Dispite their small size, Barak are famous around the world for their scouts, who hire out as an elite mercenary unit (of about 15 men). [[HaythamsBlood | Haytham's  blood]] runs strong in their veins, with several of men and women of the clan having [[Eagles | eagle blood]] abilities.%0a\ No newline at end of file%0a
+host:1257370895=87.194.105.166

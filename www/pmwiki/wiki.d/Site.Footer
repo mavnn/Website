@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9) Gecko/2008061015 Firefox/3.0
+author=michael
+csum=
+ctime=1218490110
+host=78.145.49.208
+name=Site.Footer
+rev=1
+targets=Playground.Footer
+text=(:if group -Playground:)!!!! Comment on this page:%0a[[Playground.{$Name}]](:ifend:)
+time=1218490110
+author:1218490110=michael
+diff:1218490110:1218490110:=1,2d0%0a%3c (:if group -Playground:)!!!! Comment on this page:%0a%3c [[Playground.{$Name}]](:ifend:)%0a\ No newline at end of file%0a
+host:1218490110=78.145.49.208

@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9) Gecko/2008061015 Firefox/3.0
+author=michael
+csum=
+ctime=1218031181
+host=78.145.183.79
+name=Meta.TheLordsOfLightAndDarkness
+rev=2
+targets=Category.LordsOfLightAndDarkness
+text=The Lords are supernatural beings created by the Lord of Lords as servants, messengers and generals.%0a%0aThey serve both the role of traditional Christian angels and also the pantheon of mythological gods of a more pantheistic setting. %0a%0aThe Lords of Light are those who still serve the Lord of Lords faithfully. While they recruit people to work for them (including granting them supernatural abilities) they refuse to except worship and will never take command of a mortal institution.%0a%0aThe Lords of Darkness are the fallen Lords, those who have declared themselves above the Lord of Lords and refused to be servants. They have mostly declared themselves gods, and tend to dominate and rule over mortal cities or countries depending on their level of personal power.%0a%0aBetween the two they give me as an author access to all the classic mythological tropes (powerful beings on quests, deals with gods, etc) while still keeping within the monotheistic framework I've decided I want to keep within.%0a%0aIn terms of who the Lords are and what they do, check out the [[!Lords of Light and Darkness]] category for references to them.
+time=1218057603
+author:1218057603=michael
+diff:1218057603:1218031181:minor=11c11%0a%3c In terms of who the Lords are and what they do, check out the [[!Lords of Light and Darkness]] category for references to them.%0a\ No newline at end of file%0a---%0a> In terms of who the Lords are and what they do, check out the [[!Lords of Light and Darkness]] category for of the references to them.%0a\ No newline at end of file%0a
+host:1218057603=78.145.183.79
+author:1218031181=Michael
+diff:1218031181:1218031181:=1,11d0%0a%3c The Lords are supernatural beings created by the Lord of Lords as servants, messengers and generals.%0a%3c %0a%3c They serve both the role of traditional Christian angels and also the pantheon of mythological gods of a more pantheistic setting. %0a%3c %0a%3c The Lords of Light are those who still serve the Lord of Lords faithfully. While they recruit people to work for them (including granting them supernatural abilities) they refuse to except worship and will never take command of a mortal institution.%0a%3c %0a%3c The Lords of Darkness are the fallen Lords, those who have declared themselves above the Lord of Lords and refused to be servants. They have mostly declared themselves gods, and tend to dominate and rule over mortal cities or countries depending on their level of personal power.%0a%3c %0a%3c Between the two they give me as an author access to all the classic mythological tropes (powerful beings on quests, deals with gods, etc) while still keeping within the monotheistic framework I've decided I want to keep within.%0a%3c %0a%3c In terms of who the Lords are and what they do, check out the [[!Lords of Light and Darkness]] category for of the references to them.%0a\ No newline at end of file%0a
+host:1218031181=62.231.146.140

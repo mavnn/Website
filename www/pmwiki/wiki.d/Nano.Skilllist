@@ -1,0 +1,22 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.0.12) Gecko/2009070811 Ubuntu/9.04 (jaunty) Firefox/3.0.12
+author=Michael
+csum=
+ctime=1249673034
+host=87.194.105.166
+name=Nano.Skilllist
+rev=3
+targets=
+text=
+time=1249673276
+author:1249673276=Michael
+diff:1249673276:1249673166:=0a1,19%0a> ! Skills%0a> %0a> Each skill in Rivers and Lakes provides three aspects, one for each of the three stats (Body, Mind and Soul). As the skills in the core rules are based around the games wuxia concept, an alternative table of skills are below.%0a> %0a> Suggestions for alterations, missing skills and names for each group appreciated.%0a> %0a> ||!Body||!Mind||!Soul||%0a> || Tumble || Dance || Art ||%0a> || Leap || Inspire || Tactics ||%0a> || Endure || Command || Logistics ||%0a> || Balance || Etiquette || History ||%0a> || Quick Hands || Convince || Appraise ||%0a> || Resist || Imperturbable || Farming ||%0a> || Sneak || Seduce || Perceive ||%0a> || Might || Orate || Bloodlines ||%0a> || Sprint || Sing || Navigation ||%0a> || Ride || Story Telling || Husbandry ||%0a> || Swim || Write || Investigation ||%0a> || Climb || Impersonate || Craft ||%0a\ No newline at end of file%0a
+host:1249673276=87.194.105.166
+author:1249673166=Michael
+csum:1249673166=Alignment
+diff:1249673166:1249673034:minor=8,19c8,19%0a%3c || Tumble || Dance || Art ||%0a%3c || Leap || Inspire || Tactics ||%0a%3c || Endure || Command || Logistics ||%0a%3c || Balance || Etiquette || History ||%0a%3c || Quick Hands || Convince || Appraise ||%0a%3c || Resist || Imperturbable || Farming ||%0a%3c || Sneak || Seduce || Perceive ||%0a%3c || Might || Orate || Bloodlines ||%0a%3c || Sprint || Sing || Navigation ||%0a%3c || Ride || Story Telling || Husbandry ||%0a%3c || Swim || Write || Investigation ||%0a%3c || Climb || Impersonate || Craft ||%0a\ No newline at end of file%0a---%0a> ||Tumble||Dance||Art||%0a> ||Leap||Inspire||Tactics||%0a> ||Endure||Command||Logistics||%0a> ||Balance||Etiquette||History||%0a> ||Quick Hands||Convince||Appraise||%0a> ||Resist||Imperturbable||Farming||%0a> ||Sneak||Seduce||Perceive||%0a> ||Might||Orate||Bloodlines||%0a> ||Sprint||Sing||Navigation||%0a> ||Ride||Story Telling||Husbandry||%0a> ||Swim||Write||Investigation||%0a> ||Climb||Impersonate||Craft||%0a\ No newline at end of file%0a
+host:1249673166=87.194.105.166
+author:1249673034=Michael
+csum:1249673034=Added base skill list
+diff:1249673034:1249673034:=1,19d0%0a%3c ! Skills%0a%3c %0a%3c Each skill in Rivers and Lakes provides three aspects, one for each of the three stats (Body, Mind and Soul). As the skills in the core rules are based around the games wuxia concept, an alternative table of skills are below.%0a%3c %0a%3c Suggestions for alterations, missing skills and names for each group appreciated.%0a%3c %0a%3c ||!Body||!Mind||!Soul||%0a%3c ||Tumble||Dance||Art||%0a%3c ||Leap||Inspire||Tactics||%0a%3c ||Endure||Command||Logistics||%0a%3c ||Balance||Etiquette||History||%0a%3c ||Quick Hands||Convince||Appraise||%0a%3c ||Resist||Imperturbable||Farming||%0a%3c ||Sneak||Seduce||Perceive||%0a%3c ||Might||Orate||Bloodlines||%0a%3c ||Sprint||Sing||Navigation||%0a%3c ||Ride||Story Telling||Husbandry||%0a%3c ||Swim||Write||Investigation||%0a%3c ||Climb||Impersonate||Craft||%0a\ No newline at end of file%0a
+host:1249673034=87.194.105.166

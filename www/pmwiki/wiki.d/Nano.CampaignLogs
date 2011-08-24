@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 5.1; rv:2.0b7) Gecko/20100101 Firefox/4.0b7
+author=
+csum=
+ctime=1290001760
+host=62.231.153.50
+name=Nano.CampaignLogs
+rev=2
+targets=Nano.20091204-ArrivalAtClanGalib,Nano.20091218-ScoutingOutTheLayOfTheLand
+text=* [[20091204 - Arrival at Clan Galib]]%0a* [[20091218 - Scouting out the lay of the land]]
+time=1290002572
+author:1290002572=
+diff:1290002572:1290001760:=1,2c1%0a%3c * [[20091204 - Arrival at Clan Galib]]%0a%3c * [[20091218 - Scouting out the lay of the land]]%0a\ No newline at end of file%0a---%0a> * [[20091204 - Arrival at Clan Galib]]%0a\ No newline at end of file%0a
+host:1290002572=62.231.153.50
+author:1290001760=
+diff:1290001760:1290001760:=1d0%0a%3c * [[20091204 - Arrival at Clan Galib]]%0a\ No newline at end of file%0a
+host:1290001760=62.231.153.50
